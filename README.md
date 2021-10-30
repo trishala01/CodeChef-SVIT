@@ -3,10 +3,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/67598040/139522588-a06f1cbb-e005-4ff1-b449-d6c07b8e3898.jpg" alt="Logo" width="200px" height="200px" hspace="10"/>
 <p align="center">     
     <a href="http://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
-    <img alt="Hacktoberfest" src="https://img.shields.io/github/hacktoberfest/2021/trishala01/CodeChef-SVIT.github.io">
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/trishala01/CodeChef-SVIT.github.io">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/trishala01/CodeChef-SVIT.github.io">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/trishala01/CodeChef-SVIT.github.io">
+    
 </p>
 <br>
 
